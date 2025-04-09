@@ -20,7 +20,7 @@
 ### 🔹 [Stars Hunter](https://github.com/Christian270304/Stars-Hunters)
 > Juego de capturar estrelles repartidas entre el mapa con la posibilidad de crear salas.
 
-### 🔹 [Mata Marcianos](https://github.com/Christian270304/MataMarcianos))
+### 🔹 [Mata Marcianos](https://github.com/Christian270304/MataMarcianos)
 > Juego clasico sobre matar a unos marcianos que van descendiendo poco a poco.
 
 ---
